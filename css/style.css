@@ -51,25 +51,28 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
-.row {
-    display: flex;
-}
+
+/* We moved the class from the div to the image, no vertical align, no flex, no rows, bigger percents - Tyler */
 
 .column {
-    width: 48%;
+    display: inline-block;
+    width: 30%;
 }
 
 
 /* create your tile classes! we recommend .small .med .large */
 
+
+/* inline-block would probably the easiest solution to this lab - Isaac Villicana */
+
 .small {
-    size: 100%
+    width: 100%
 }
 
 .med {
-    size: 200%
+    width: 200%
 }
 
 .large {
-    size: 300%
+    width: 300%
 }
