@@ -76,4 +76,5 @@ img:hover {
 .large {
     width: 300%;
     text-align: center;
+    margin-left: -180px;
 }
