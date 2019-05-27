@@ -9,9 +9,7 @@ body, html {
 }
 
 .container, h1 {
-  width: 80%;
-  max-width: 600px;
-  min-width: 400px;
+  width: 35em;
   padding: 10px;
   margin: 10px auto;
 }
@@ -48,4 +46,29 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
+.column {
+  width: 35em;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 1em;
+}
+
 /* create your tile classes! we recommend .small .med .large */
+
+img {
+  max-height: 100%;
+  object-fit: cover;
+  width: 100%;
+  outline: 2px solid black;
+}
+
+.amiable .med {
+  grid-column: 2 / 4;
+  grid-row: 1 / 3;
+}
+
+.indifferent .med {
+  grid-column: 1 / 3;
+  grid-row: 1 / 3;
+}
