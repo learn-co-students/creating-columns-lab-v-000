@@ -46,20 +46,11 @@ img:hover {
   background-color: #dd4444;
 }
 
-#clearfix:after {
-    content: ".";
-    display: block;
-    clear: both;
-    visibility: hidden;
-    height: 0;
-    line-height: 0;
-}
+
 
 .column {
   width: 30%;
   display: inline-block;
-  float: left;
-  margin: auto;
 }
 
 .small {
