@@ -8,6 +8,22 @@ body, html {
   background-color: #666;
 }
 
+.column{
+
+}
+
+.small{
+
+}
+
+.med{
+
+}
+
+.large{
+  
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
