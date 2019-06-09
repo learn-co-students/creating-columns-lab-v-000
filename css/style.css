@@ -48,22 +48,22 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  column-width: 200px;
-  max-width: 800px;
-  margin: 0 auto;
+  width: 30%;
+  display: inline-block;
 }
 
 /* create your tile classes! we recommend .small .med .large */
 .small {
-  width: 32%;
+  width: 100%;
+  height: 100%;
 }
 
 .med {
-  width: 64%
+  width: 201.5%;
+  height: 201.5%;
 }
 
 .large {
-  width: 96%;
+  width: 303%;
+  height: 303%;
 }
