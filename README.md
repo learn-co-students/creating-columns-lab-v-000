@@ -67,7 +67,7 @@ in between.
 - When creating our tile size classes (**`.small`**, **`.med`**, **`.large`**), we need to provide
 properties that will change the size of the element. As shown in the screenshot of the final product
 images can be their original size, 2x, or 3x. Use the `width` and `height` properties, with `%`
-based values, to control that. 
+based values, to contr5r5rt5r55rt5rtyr5trrrol that. 
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/creating-columns-lab' title='Creating Columns Lab'>Creating Columns Lab</a> on Learn.co and start learning to code for free.</p>
