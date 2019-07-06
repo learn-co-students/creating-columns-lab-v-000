@@ -10,7 +10,7 @@ body, html {
 
 .container, h1 {
   width: 80%;
-  max-width: 600px;
+  max-width: 800px;
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
@@ -47,5 +47,20 @@ img:hover {
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
+.column {
+  display: inline-block;
+
+}
 
 /* create your tile classes! we recommend .small .med .large */
+.small {
+
+}
+
+.med {
+
+}
+
+.large {
+
+}
