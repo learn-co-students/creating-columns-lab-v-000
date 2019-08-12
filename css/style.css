@@ -12,8 +12,8 @@ body, html {
   width: 80%;
   max-width: 600px;
   min-width: 400px;  
-  padding: 1%;
-  margin: 1% auto;
+  padding: 10px;
+  margin: 10px auto;
 }
 
 /* .container, h1 {
@@ -27,8 +27,8 @@ body, html {
 h4 {
   width: fit-content;
   display: inline-block;
-  padding: .5%;
-  margin: 2% 0 0 0;
+  padding: 5px;
+  margin: 20px 0 0 0;
 }
 
 img:hover {
@@ -73,11 +73,11 @@ img:hover {
 }
 
 .med {
-  width: 200%;
-  height: 200%;
+  width: 201.5%;
+  height: 201.5%;
 }
 
 .large {
-  width: 300%;
-  height: 300%;
+  width: 303%;
+  height: 303%;
 }
