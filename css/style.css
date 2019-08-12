@@ -16,14 +16,6 @@ body, html {
   margin: 10px auto;
 }
 
-/* .container, h1 {
-  width: 80%;
-  max-width: 600px;
-  min-width: 400px;
-  padding: 10px;
-  margin: 10px auto;
-} */
-
 h4 {
   width: fit-content;
   display: inline-block;
@@ -55,16 +47,8 @@ img:hover {
 }
 
 .column {
-  /* display: grid; */
-  /* margin: 0 auto; */
   width: 30%;
   display: inline-block;
-
-
-  /* grid-template-columns: 1fr 1fr; */
-  /* -webkit-column-count: 5;
-  -moz-column-count: 5;
-  column-count: 5; */
 }
 
 .small {
