@@ -16,6 +16,22 @@ body, html {
   margin: 10px auto;
 }
 
+.column{
+
+}
+
+.small{
+  
+}
+
+.med{
+
+}
+
+.large{
+
+}
+
 h4 {
   width: fit-content;
   display: inline-block;
