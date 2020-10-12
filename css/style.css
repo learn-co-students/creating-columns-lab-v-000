@@ -64,13 +64,16 @@ img:hover {
 }
 
 .med {
-  width: 200%;
+  width: 203%;
+  /* width: 201.5%; */
+  /* width: 200%; */
   /* height: 200%; */
   
   /* grid-column: 2 / 4; */
 }
 
 .large {
-  width: 300%;
+  width: 303%;
+  /* width: 300%; */
   /* height: 300%; */
 }
